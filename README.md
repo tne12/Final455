@@ -80,8 +80,8 @@ Open a terminal in your VM and run the following commands:
    npm install -g pm2
 3. Clone and Set Up the App:
    ```bash
-   git clone https://github.com/yourusername/cryptoedu.git
-   cd cryptoedu
+   git clone https://github.com/yourusername/Final455.git
+   cd final455
    npm install --legacy-peer-deps
 
 4. Since the app uses Next.js, so for production:
